@@ -12,3 +12,4 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://kazahd.github.io/devops-docs/`.
+[Битая ссылка](missing-page.md)
